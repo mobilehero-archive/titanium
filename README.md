@@ -7,10 +7,8 @@ open-source and easy to use. [We've](https://github.com/appcelerator)
 designed Titanium to be suitable for command line beginners, but still be
 powerful and extensible enough for production usage.
 
-[![Build Status](https://travis-ci.org/appcelerator/titanium.svg?branch=master)](https://travis-ci.org/appcelerator/titanium)
-[![Dependency Status](https://david-dm.org/appcelerator/titanium.svg)](https://david-dm.org/appcelerator/titanium)
-[![devDependency Status](https://david-dm.org/appcelerator/titanium/dev-status.svg)](https://david-dm.org/appcelerator/titanium#info=devDependencies)
-[![NPM version](https://badge.fury.io/js/titanium.svg)](http://badge.fury.io/js/grunt-appc-js) [![Greenkeeper badge](https://badges.greenkeeper.io/appcelerator/titanium.svg)](https://greenkeeper.io/)
+[![@titanium/titanium](https://img.shields.io/npm/v/@titanium/sdk-manager.png)](https://www.npmjs.com/package/@titanium/titanium)
+[![@titanium/titanium](https://snyk.io/advisor/npm-package/@titanium/titanium/badge.svg)](https://snyk.io/advisor/npm-package/@titanium/titanium)
 
 ## Prerequisites
 

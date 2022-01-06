@@ -31,7 +31,7 @@
 		"axway-sdk",
 		"axway-amplify"
 	],
-	"version": "5.4.2",
+	"version": "5.4.3",
 	"author": {
 		"name": "Appcelerator, Inc.",
 		"email": "npmjs@appcelerator.com"
@@ -103,6 +103,7 @@
 		"test": "npm run lint && npm run unit-test",
 		"unit-test": "nyc mocha \"tests/**/test-*.js\"",
 		"prepare2": "husky install",
+		"prepublishOnly": "git pull && npm run prep && bump insane",
 		"prep": "npm install --ignore-scripts"
 	},
 	"mocha": {
