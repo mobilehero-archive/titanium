@@ -5,8 +5,8 @@
 		"copyright": "Copyright (c) 2012-2020, Appcelerator, Inc.  All Rights Reserved.",
 		"id": "com.appcelerator.titanium.cli"
 	},
-	"name": "titanium",
-	"description": "Appcelerator Titanium Command line",
+	"name": "@titanium/titanium",
+	"description": "⭐  Axway Amplify command line tool for Appcelerator Titanium SDK",
 	"keywords": [
 		"appcelerator",
 		"titanium",
@@ -18,7 +18,18 @@
 		"html5",
 		"mobileweb",
 		"mobile web",
-		"appc-client"
+		"appc-client",
+		"sdk",
+		"plugin",
+		"amplify",
+		"api-builder",
+		"appcelerator-titanium",
+		"titanium-sdk",
+		"titanium-mobile",
+		"titanium-module",
+		"amplify-package",
+		"axway-sdk",
+		"axway-amplify"
 	],
 	"version": "5.4.1",
 	"author": {

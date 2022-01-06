@@ -1,4 +1,4 @@
-## Titanium CLI
+# Titanium CLI
 
 > [Titanium CLI](https://github.com/appcelerator/titanium) is a
 [Command Line Tool](http://en.wikipedia.org/wiki/Command-line_interface)
