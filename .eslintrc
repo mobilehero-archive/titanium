@@ -1,5 +1,5 @@
 {
-  "extends": [ "axway/env-node", "axway/+mocha"],
+  "extends": [ ],
   "globals": {
     "Ti": false
   },
