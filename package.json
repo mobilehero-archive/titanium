@@ -103,7 +103,7 @@
 		"lint": "eslint .",
 		"test": "npm run lint && npm run unit-test",
 		"unit-test": "nyc mocha \"tests/**/test-*.js\"",
-		"prepare": "husky install"
+		"prepare2": "husky install"
 	},
 	"mocha": {
 		"timeout": 3000,
