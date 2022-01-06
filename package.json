@@ -6,7 +6,7 @@
 		"id": "com.appcelerator.titanium.cli"
 	},
 	"name": "@titanium/titanium",
-	"description": "⭐  Axway Amplify command line tool for Appcelerator Titanium SDK",
+	"description": "⭐  Axway Amplify command line tool (CLI) for Appcelerator Titanium SDK",
 	"keywords": [
 		"appcelerator",
 		"titanium",
