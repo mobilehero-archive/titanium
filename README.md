@@ -1,5 +1,11 @@
 # Titanium CLI
 
+---
+## *Modified from Appcelerator Titanium CLI to update dependencies and apply security patches.*
+
+---
+
+
 > [Titanium CLI](https://github.com/appcelerator/titanium) is a
 [Command Line Tool](http://en.wikipedia.org/wiki/Command-line_interface)
 for creating and building Titanium Mobile applications and modules. It's
@@ -7,7 +13,7 @@ open-source and easy to use. [We've](https://github.com/appcelerator)
 designed Titanium to be suitable for command line beginners, but still be
 powerful and extensible enough for production usage.
 
-[![@titanium/titanium](https://img.shields.io/npm/v/@titanium/sdk-manager.png)](https://www.npmjs.com/package/@titanium/titanium)
+[![@titanium/titanium](https://img.shields.io/npm/v/@titanium/titanium.png)](https://www.npmjs.com/package/@titanium/titanium)
 [![@titanium/titanium](https://snyk.io/advisor/npm-package/@titanium/titanium/badge.svg)](https://snyk.io/advisor/npm-package/@titanium/titanium)
 
 ## Prerequisites
