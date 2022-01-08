@@ -31,7 +31,7 @@
 		"axway-sdk",
 		"axway-amplify"
 	],
-	"version": "5.4.7",
+	"version": "5.4.8",
 	"author": {
 		"name": "Appcelerator, Inc.",
 		"email": "npmjs@appcelerator.com"
@@ -64,8 +64,8 @@
 		"@geek/retry": "^1.0.0",
 		"@octokit/rest": "^18.12.0",
 		"@titanium/errors": "^1.0.5",
-		"@titanium/module-copier": "^1.0.13",
-		"@titanium/sdk-manager": "^1.0.8",
+		"@titanium/module-copier": "^1.0.14",
+		"@titanium/sdk-manager": "^1.0.9",
 		"async": "^3.2.2",
 		"colors": "1.4.0",
 		"fields": "0.1.24",
@@ -81,7 +81,7 @@
 		"@commitlint/cli": "^16.0.1",
 		"@commitlint/config-conventional": "^16.0.0",
 		"@titanium/eslint-config": "^1.0.8",
-		"danger": "^10.7.1",
+		"danger": "^10.8.0",
 		"eslint": "^8.6.0",
 		"fs-extra": "^10.0.0",
 		"husky": "^7.0.4",
