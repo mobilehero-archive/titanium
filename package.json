@@ -31,7 +31,7 @@
 		"axway-sdk",
 		"axway-amplify"
 	],
-	"version": "5.4.10",
+	"version": "5.4.11",
 	"author": {
 		"name": "Appcelerator, Inc.",
 		"email": "npmjs@appcelerator.com"
@@ -67,7 +67,6 @@
 		"@titanium/module-copier": "^1.0.15",
 		"@titanium/sdk-manager": "^1.0.10",
 		"async": "^3.2.3",
-		"colors": "1.4.2",
 		"fields": "0.1.24",
 		"humanize": "0.0.9",
 		"node-appc": "^1.1.2",
