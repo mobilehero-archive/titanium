@@ -31,7 +31,7 @@
 		"axway-sdk",
 		"axway-amplify"
 	],
-	"version": "5.4.26",
+	"version": "5.4.27",
 	"author": {
 		"name": "Appcelerator, Inc.",
 		"email": "npmjs@appcelerator.com"
