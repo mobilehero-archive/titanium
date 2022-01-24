@@ -31,7 +31,7 @@
 		"axway-sdk",
 		"axway-amplify"
 	],
-	"version": "5.4.37",
+	"version": "5.4.38",
 	"author": {
 		"name": "Appcelerator, Inc.",
 		"email": "npmjs@appcelerator.com"
@@ -79,7 +79,7 @@
 	"devDependencies": {
 		"@commitlint/cli": "^16.1.0",
 		"@commitlint/config-conventional": "^16.0.0",
-		"@titanium/eslint-config": "^1.0.35",
+		"@titanium/eslint-config": "^1.0.36",
 		"danger": "^10.8.0",
 		"eslint": "^8.7.0",
 		"fs-extra": "^10.0.0",
